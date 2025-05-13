@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Ingeniero Informático con más de 1 año de experiencia en empresas de los rubros de Retail y Agencia Digital. Se ha desempeñado principalmente en las áreas de Desarrollo Web y Soporte Técnico, con conocimientos en HTML5, CSS3, PHP, MySQL, JavaScript.
+Ingeniero Informático con más de 5 años de experiencia en desarrollo web y soporte técnico. Especializado en tecnologías como HTML, CSS, JavaScript, PHP y MySQL. Apasionado por la resolución de problemas y la innovación, busca contribuir a proyectos desafiantes en el sector tecnológico. Está comprometido con el aprendizaje continuo y el crecimiento profesional.
 
 
 # 🌐 Contacto:
